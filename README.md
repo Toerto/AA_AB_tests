@@ -1,1 +1,1 @@
-# AA_AB_tests
+A/A, A/B tests with CUPED methods
